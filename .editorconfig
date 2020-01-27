@@ -75,4 +75,4 @@ csharp_style_var_elsewhere = false:error
 # impossible or infeasible to implement:
 #	* Forbidding `protected`, `internal`, `goto`, `unsafe`, and `virtual` keywords
 #	* Allowing both 'ux' and '_' as prefixes
-#	* Forbidding extension methods.
+#	* Forbidding extension methods
